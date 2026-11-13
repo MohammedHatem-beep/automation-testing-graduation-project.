@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Automation Test Suite">
+
+    <listeners>
+        <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
+        <listener class-name="listeners.TestListener"/>
+    </listeners>
+
+    <test name="OrangeHRM Test Cases">
+        <classes>
+            <class name="login.LoginTests"/>
+            <class name="pim.PIMTests"/>
+            <class name="admin.AdminTests"/>
+            <class name="footer.FooterTests"/>
+            <class name="sidebar.SidebarTests"/>
+        </classes>
+    </test>
+
+</suite>

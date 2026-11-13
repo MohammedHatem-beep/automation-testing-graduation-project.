@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b88ca4b8-28fd-4fa1-8e4e-ba70febd9f98" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/main/java/base/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/main/java/driver/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/main/java/listeners/RetryAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/main/java/listeners/TestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/main/java/pages/AdminPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/main/java/pages/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/main/java/pages/PIMPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/main/java/utils/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/main/java/utils/LoggerUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/test/java/admin/AdminTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/test/java/base/AuthenticatedBaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/test/java/base/BaseTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/test/java/footer/FooterTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/test/java/login/LoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/test/java/pim/PIMTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/test/java/sidebar/SidebarTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/test/java/utils/TestDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/test/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/test/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/test/resources/testdata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation-Testing-Graduation-Project/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="11" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Automation-Testing-Graduation-Project" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0000000000000109" />
+      <entry key="M5" value="1.0000078889525137" />
+      <entry key="M10" value="1.0080432713281056" />
+      <entry key="M15" value="1.083830820568124" />
+      <entry key="M30" value="1.946478865799198" />
+      <entry key="H1" value="5.260153963268344" />
+      <entry key="H2" value="13.037767412685346" />
+      <entry key="H4" value="23.33910039451182" />
+      <entry key="D1" value="40.155737237653966" />
+      <entry key="W1" value="44.26931194954218" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="4.596428406470893E-182" />
+      <entry key="S30" value="3.5821202982569004E-61" />
+      <entry key="S60" value="5.985081702246763E-31" />
+      <entry key="M2" value="7.736330979376957E-16" />
+      <entry key="M5" value="9.024310229407661E-7" />
+      <entry key="M10" value="9.499687223307421E-4" />
+      <entry key="M15" value="0.009667724118238545" />
+      <entry key="M30" value="0.10179422439712144" />
+      <entry key="H1" value="0.415616075815056" />
+      <entry key="H2" value="1.113003038764347" />
+      <entry key="H4" value="2.036194147092365" />
+      <entry key="D1" value="3.5584112860642474" />
+      <entry key="W1" value="3.933313946863252" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.1792444060019784" />
+      <entry key="MS500" value="0.7090700178397293" />
+      <entry key="S2" value="0.9176398823113651" />
+      <entry key="S5" value="0.9662041804724366" />
+      <entry key="S10" value="0.9829568558550454" />
+      <entry key="S30" value="0.9942863685421922" />
+      <entry key="S60" value="0.9971390918734419" />
+      <entry key="M2" value="0.9985685213712001" />
+      <entry key="M5" value="0.9994359273434702" />
+      <entry key="M10" value="1.008692782024079" />
+      <entry key="M15" value="1.0932116855202285" />
+      <entry key="M30" value="2.047663200629279" />
+      <entry key="H1" value="5.674651612789947" />
+      <entry key="H2" value="14.149309906690005" />
+      <entry key="H4" value="25.373975476477085" />
+      <entry key="D1" value="43.7137688080222" />
+      <entry key="W1" value="48.20256606244803" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3M3FWQ44LWYs3kMoPOZEntdDIPa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.AdminTests.verifyAddUserPageFields.executor": "Run",
+    "TestNG.FooterTests.verifyOrangeHRMFooterBrandingLink.executor": "Run",
+    "TestNG.LoginTests.executor": "Run",
+    "TestNG.LoginTests.verifyLoginWithValidCredentials.executor": "Run",
+    "TestNG.PIMTests.executor": "Run",
+    "TestNG.PIMTests.verifyFirstNameRequiredValidation.executor": "Run",
+    "TestNG.PIMTests.verifyOpenAddEmployeePage.executor": "Run",
+    "TestNG.PIMTests.verifySuccessfullyAddEmployee.executor": "Run",
+    "TestNG.SidebarTests.verifySidebarMenuItems.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Mohammed/IdeaProjects/Automation-Testing-Graduation-Project/src/main/java/org/example/Main.java",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="base" />
+      <recent name="utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginTests.verifyLoginWithValidCredentials">
+    <configuration name="AdminTests.verifyAddUserPageFields" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation-Testing-Graduation-Project." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="admin" />
+      <option name="MAIN_CLASS_NAME" value="admin.AdminTests" />
+      <option name="METHOD_NAME" value="verifyAddUserPageFields" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FooterTests.verifyOrangeHRMFooterBrandingLink" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation-Testing-Graduation-Project." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="footer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="footer" />
+      <option name="MAIN_CLASS_NAME" value="footer.FooterTests" />
+      <option name="METHOD_NAME" value="verifyOrangeHRMFooterBrandingLink" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests.verifyLoginWithValidCredentials" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation-Testing-Graduation-Project." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="login" />
+      <option name="MAIN_CLASS_NAME" value="login.LoginTests" />
+      <option name="METHOD_NAME" value="verifyLoginWithValidCredentials" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PIMTests.verifySuccessfullyAddEmployee" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation-Testing-Graduation-Project." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pim" />
+      <option name="MAIN_CLASS_NAME" value="pim.PIMTests" />
+      <option name="METHOD_NAME" value="verifySuccessfullyAddEmployee" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SidebarTests.verifySidebarMenuItems" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation-Testing-Graduation-Project." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sidebar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sidebar" />
+      <option name="MAIN_CLASS_NAME" value="sidebar.SidebarTests" />
+      <option name="METHOD_NAME" value="verifySidebarMenuItems" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTests.verifyLoginWithValidCredentials" />
+        <item itemvalue="TestNG.SidebarTests.verifySidebarMenuItems" />
+        <item itemvalue="TestNG.FooterTests.verifyOrangeHRMFooterBrandingLink" />
+        <item itemvalue="TestNG.AdminTests.verifyAddUserPageFields" />
+        <item itemvalue="TestNG.PIMTests.verifySuccessfullyAddEmployee" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b88ca4b8-28fd-4fa1-8e4e-ba70febd9f98" name="Changes" comment="" />
+      <created>1794571381160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794571381160</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../Automation-Testing-Graduation-Project/src/test/java/pim/PIMTests.java</url>
+          <line>57</line>
+          <properties class="pim.PIMTests" method="verifyOpenAddEmployeePage">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
